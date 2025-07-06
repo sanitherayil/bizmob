@@ -1,0 +1,39 @@
+1.Create SveltekitProject
+
+npx sv create my-app
+cd my-app
+npm install
+npm run dev
+
+open in VS Code
+
+git init
+git add .
+git config --global user.email "sanitherayil@gmail.com"
+git config --global user.name "Saneesh Kumar"
+git commit -m "Initial commit"
+
+Go to https://github.com, click New repository, and:
+
+Name your repo
+
+git remote add origin https://github.com/sanitherayil/bizmob.git
+git branch -M main
+git push -u origin main
+
+
+Additional Push
+
+git add .
+git commit -m "Your message describing the changes"
+git push
+
+Vercel Deployment
+
+
+
+SQlite turso
+
+libsql://bizmobile-sanitherayil.aws-ap-south-1.turso.io
+eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJpYXQiOjE3NTE3MjAyNjksImlkIjoiMjI5NTgzNjItMmEwOC00MGFkLTgzNjctNWQzMTA0YWYwNzQ4IiwicmlkIjoiYzc5NGFjYWUtOTg0NS00ZjIzLTg3Y2ItNmU4YjJkYzg1NWJkIn0.4mkKdZbqE8bet08C7SjPQ1mC_emdXAgGWM5bpuMNr8Mk9y32_iFBaTg7RkJlDFJdLp_v4r9GUkfGIneiuN4GBQ
+libsql://bizmobile-sanitherayil.aws-ap-south-1.turso.io

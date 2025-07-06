@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+
+<script>
+	import css from "$lib/client/css";
+</script>
+<div class={css.card}>
+    <a class={css.btnPurple} href="/company/create">Create Company</a>
+</div>
